@@ -8,7 +8,7 @@
             sum = sum + r
             n = n / 10
         End While
-        Console.WriteLine("Sum of digit = " & sum)
+        Console.WriteLine("Sum of digit = " &sum)
         Console.ReadKey()
     End Sub
 End Module
